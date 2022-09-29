@@ -1,6 +1,6 @@
 
 # yanglegeyang
-羊了个羊助手，更新至：`2022/09/24 14:30:00`
+羊了个羊助手，更新至：`2022/09/30 11:30:00`
 
 ## 一些想说的话
 
@@ -13,6 +13,8 @@
 
 ## 感谢贡献
 ![image](https://user-images.githubusercontent.com/20919526/191451862-8008b48e-d577-4bc9-a21a-523a6ae8cd03.png)
+
+![image](https://user-images.githubusercontent.com/20919526/192932147-cdc3db93-55ab-4929-ba5a-1732459ff239.png)
 
 
 
